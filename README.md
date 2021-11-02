@@ -1,2 +1,2 @@
-# core-1-int-setup-demo
- Core 1 int setup demo
+# core-1-int-kelly portfoilo
+ Core 1 int kelly portfoilo
