@@ -7,7 +7,7 @@
 html {
   font-size: 1rem;
   font-family: 'Open Sans', sans-serif;
-    background-color: #eaeaea;
+    background-color: #E0F7FA;
 }
 
 body {
@@ -21,7 +21,7 @@ body {
   --wf-medium-yellow: #1A237E;
   --wf-medium-brown: #00BFA5;
   --wf-deep-brown: #1DE9B6;
-  --body-text-color: var(--wf-medium-brown);
+  --body-text-color: var(--wf-medium-yellow);
 }
 
 /* Structure */
