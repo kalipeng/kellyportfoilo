@@ -6,7 +6,7 @@
 
 html {
   font-size: 1rem;
-  font-family:'robots', serif ;
+  font-family:'Varela Round', sans-serif; 
     background-color: #E0F7FA;
 }
 
@@ -130,7 +130,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family:'robots', serif ;
+  font-family:'Varela Round', sans-serif ;
     font-weight:700;
   line-height:1;
 }
