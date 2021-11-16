@@ -15,12 +15,12 @@ body {
 }
 
 :root {
-  --wf-gray: #434E59;
-  --wf-light-gray: #E6ECF2;
-  --wf-bright-yellow: #F2BC1B;
-  --wf-medium-yellow: #CF9730;
-  --wf-medium-brown: #CF9730;
-  --wf-deep-brown: #736048;
+  --wf-gray: #2962ff;
+  --wf-light-gray: #2979ff;
+  --wf-bright-yellow: #448aff;
+  --wf-medium-yellow: #1A237E;
+  --wf-medium-brown: #00BFA5;
+  --wf-deep-brown: #1DE9B6;
   --body-text-color: var(--wf-medium-brown);
 }
 
@@ -417,7 +417,7 @@ input:checked + .slider {
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #F2B138;
+  box-shadow: 0 0 1px #2962FF;
 }
 
 input:checked + .slider:before {
@@ -446,7 +446,7 @@ label {
 
 input {
     margin: .4rem 0;
-    border: 1px solid #F2B138;
+    border: 1px solid #2962FF;
 }
 
 .pointer{
