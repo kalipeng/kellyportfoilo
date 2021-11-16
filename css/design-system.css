@@ -298,19 +298,19 @@ p, li {
 
 .button2:hover {
   background-color: white; 
-  color: #A66312; 
-  border: 2px solid #F2B138;
+  color: #448aff; 
+  border: 2px solid #1DE9B6;
 }
 
 .button3 {
-  background-color: #736048; 
+  background-color: #448aff; 
   color: white; 
   opacity: 0.6;
   cursor: not-allowed;
 }
 
 .button3:hover {
-  background-color: #736048; 
+  background-color: #448aff; 
   color: white; 
   opacity: 0.6;
   cursor: not-allowed;
