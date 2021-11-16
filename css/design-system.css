@@ -6,7 +6,7 @@
 
 html {
   font-size: 1rem;
-  font-family: 'Open Sans', sans-serif;
+  font-family:'robots', serif ;
     background-color: #E0F7FA;
 }
 
@@ -15,13 +15,13 @@ body {
 }
 
 :root {
-  --wf-gray: #2962ff;
-  --wf-light-gray: #2979ff;
-  --wf-bright-yellow: #448aff;
-  --wf-medium-yellow: #1A237E;
-  --wf-medium-brown: #00BFA5;
-  --wf-deep-brown: #1DE9B6;
-  --body-text-color: var(--wf-medium-yellow);
+  --wf-blue: #2962ff;
+  --wf-light-blue: #2979ff;
+  --wf-bright-blue: #448aff;
+  --wf-medium-blue: #1A237E;
+  --wf-medium-green: #00BFA5;
+  --wf-light-green: #1DE9B6;
+  --body-text-color: var(--wf-medium-blue);
 }
 
 /* Structure */
@@ -130,7 +130,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Open Sans', sans-serif;
+  font-family:'robots', serif ;
     font-weight:700;
   line-height:1;
 }
@@ -266,7 +266,7 @@ p, li {
 /* -- buttons -- */
 
 .button {
-  background-color: #CF9730; 
+  background-color: #2962FF; 
   border: none;
   color: white;
   padding: 8px 32px;
@@ -281,19 +281,19 @@ p, li {
 }
 
 .button1 {
-  background-color: #CF9730; 
+  background-color: #2962FF; 
   color: white; 
 }
 
 .button1:hover {
-  background-color: #A66312;
+  background-color: #448AFF;
   color: white;
 }
 
 .button2 {
   background-color: white; 
-  color: #A66312; 
-  border: 2px solid #736048;
+  color: #448AFF; 
+  border: 2px solid #1A237E;
 }
 
 .button2:hover {
@@ -507,7 +507,7 @@ hr {
 
 /* Set a style for all buttons */
 button {
-  background-color: #CF9730;
+  background-color: #1DE9B6;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
