@@ -87,7 +87,7 @@ section {
 }
 
 .card-image {
-    background-color: #E6ECF2;
+    background-color: #E0F7FA;
     padding:1rem;
 }
 .card-image > img {
@@ -95,7 +95,7 @@ section {
 }
 
 .profile-card {
-    background-color: #434E59;
+    background-color: #1A237E;
     padding:1rem;
 }
 .profile-card > img {
@@ -198,23 +198,24 @@ p, li {
 
 
   .color-gray {
-    background-color: #434E59;
+    background-color: #2962FF;
   }
 
     .color-light-gray {
-    background-color: #E6ECF2;
+    background-color: #2979ff;
   }
     .color-bright-yellow {
-    background-color: #F2BC1B;
+    background-color: #448aff;
   }
     .color-medium-yellow {
-    background-color: #CF9730;
+    background-color: #1A237E
   }
     .color-medium-brown {
-    background-color: #A66312;
+    background-color: #00BFA5;
   }
     .color-deep-brown {
-    background-color: #736048;
+    background-color: #1DE9B6
+    ;
   }
 
 
